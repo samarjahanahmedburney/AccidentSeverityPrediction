@@ -1,6 +1,6 @@
 💥 AccidentSeverityPrediction
 
-Author: Ssamar jahan burney
+Author: Samar jahan burney
 
 Predict the severity of road traffic accidents using machine learning with a complete end-to-end pipeline.
 
