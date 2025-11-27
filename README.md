@@ -72,4 +72,4 @@ Random Forest	0.7761	0.3075
 XGBoost	0.7971	0.3567
 LightGBM	0.7845	0.3284
 
-Observation: XGBoost achieves the highest weighted F1, while Decision Tree shows better macro F1. Imbalanced classes (especially Fatal injury) remain challenging.
+Observation: XGBoost achieves the highest weighted F1, while Decision Tree shows better macro F1. 
